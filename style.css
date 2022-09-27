@@ -1,3 +1,7 @@
 h1{
     background-color: aqua;
 }
+
+h3{
+    display: contents;
+}
